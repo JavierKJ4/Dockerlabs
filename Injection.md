@@ -71,11 +71,16 @@ Finished
 ```
 <p>Encontramos dos archivos php, en config.php no encontré nada asi que revisamos el index.php.</p>
 
+![captura-login](https://github.com/JavierKJ4/Dockerlabs/blob/main/recursos/Screenshot_2024-05-13_04-20-49.png)
+
 
 <p>Probamos una inyección SQL simple colocando 'or 1=1-- - en el nombre de usuario y cualquier cosa en la contraceña.</p>
 
+![captura-loginhack](https://github.com/JavierKJ4/Dockerlabs/blob/main/recursos/Screenshot_2024-05-13_04-21-37.png)
 
 <p>Logramos logearnos y  vemos que hay un usuario y una contraseña, los usamos en el ssh.</p>
+
+![captura-logeado](https://github.com/JavierKJ4/Dockerlabs/blob/main/recursos/Screenshot_2024-05-13_04-22-21.png)
 
 ## SSH
 
