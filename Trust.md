@@ -68,7 +68,7 @@ Finished
 ```
 <p>Encontramos dos archivos, en index.html no encontré nada asi que revisamos el secret.php.</p>
 
-![captura-login](https://github.com/JavierKJ4/Dockerlabs/blob/main/recursos/Screenshot_2024-05-13_04-20-49.png)
+![captura-login](https://github.com/JavierKJ4/Dockerlabs/blob/main/recursos/Screenshot_2024-05-13_06-40-18.png)
 
 
 <p>Probamos fuerza bruta con hydra usando como usuario mario.</p>
